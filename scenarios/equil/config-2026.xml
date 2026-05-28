@@ -16,7 +16,7 @@
 	</module>
 
 	<module name="controller">
-		<param name="outputDirectory" value="./output" />
+		<param name="outputDirectory" value="./output/output_Config2026" />
 		<param name="lastIteration" value="10" />
 	</module>
 

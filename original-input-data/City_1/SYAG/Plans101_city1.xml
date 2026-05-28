@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plans SYSTEM "http://www.matsim.org/files/dtd/plans_v4.dtd">
+<plans xml:lang="de-CH">
+  <person id="1" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.327305" y="51.75892" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="education" x="14.331301" y="51.755964" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.327305" y="51.75892" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="2" sex="f" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.324093" y="51.751714" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.333344" y="51.755368" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.324093" y="51.751714" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="3" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.341635" y="51.760897" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="leisure" x="14.335867" y="51.760044" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.341635" y="51.760897" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="4" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.320299" y="51.75773" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="education" x="14.322335" y="51.756548" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.320299" y="51.75773" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="5" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.319544" y="51.755563" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="education" x="14.336257" y="51.761654" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.319544" y="51.755563" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="6" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.324158" y="51.758424" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="education" x="14.327078" y="51.759717" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.324158" y="51.758424" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="7" sex="f" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.331787" y="51.751163" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.332335" y="51.755459" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.331787" y="51.751163" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="8" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.33906" y="51.761706" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.33906" y="51.761706" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="9" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.331661" y="51.760727" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="education" x="14.330285" y="51.754169" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.331661" y="51.760727" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="10" sex="m" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.326446" y="51.76225" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="education" x="14.336939" y="51.752014" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.326446" y="51.76225" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="11" sex="m" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.341089" y="51.759883" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="education" x="14.32839" y="51.763455" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.341089" y="51.759883" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="12" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.340435" y="51.76082" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="education" x="14.33108" y="51.761335" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.340435" y="51.76082" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="13" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.327622" y="51.763873" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.327622" y="51.763873" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="14" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.333568" y="51.755443" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="education" x="14.324921" y="51.750463" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.333568" y="51.755443" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="15" sex="m" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.324873" y="51.76016" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.334663" y="51.750137" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.324873" y="51.76016" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="16" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.332588" y="51.763447" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.342742" y="51.752872" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.332588" y="51.763447" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="17" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.339946" y="51.753976" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.328178" y="51.754845" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.339946" y="51.753976" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="18" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.329052" y="51.756959" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.33154" y="51.748613" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.329052" y="51.756959" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="19" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.33698" y="51.74981" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.329761" y="51.760892" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="shopping" x="14.337901" y="51.752714" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.33698" y="51.74981" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="20" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.34175" y="51.760177" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="shopping" x="14.344627" y="51.756222" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.34175" y="51.760177" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="21" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.329333" y="51.760209" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.322378" y="51.749689" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.329333" y="51.760209" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="22" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.335583" y="51.753541" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.328946" y="51.763553" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.335583" y="51.753541" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="23" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.339585" y="51.761064" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.329851" y="51.754202" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.339585" y="51.761064" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="24" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.321979" y="51.754958" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.33983" y="51.750859" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="shopping" x="14.343262" y="51.760803" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.321979" y="51.754958" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="25" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.331798" y="51.748261" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="work" x="14.332692" y="51.759384" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="shopping" x="14.340674" y="51.759711" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.331798" y="51.748261" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="26" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.343948" y="51.758053" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.332801" y="51.757144" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.327755" y="51.751029" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.343948" y="51.758053" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="27" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.327994" y="51.762571" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.327493" y="51.762815" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.327994" y="51.762571" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="28" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.327558" y="51.748541" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.328895" y="51.750361" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.327558" y="51.748541" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="29" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.328276" y="51.749733" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.328276" y="51.749733" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="30" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.338763" y="51.762762" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.334815" y="51.749489" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.338763" y="51.762762" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="31" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.32931" y="51.755034" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.325202" y="51.760654" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="leisure" x="14.325069" y="51.758599" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.32931" y="51.755034" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="32" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.334368" y="51.764877" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.323998" y="51.751428" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="shopping" x="14.337934" y="51.750523" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.334368" y="51.764877" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="33" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.341601" y="51.759614" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.334245" y="51.755284" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.341601" y="51.759614" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="34" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.329013" y="51.756916" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.323114" y="51.757747" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="leisure" x="14.330939" y="51.757481" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.329013" y="51.756916" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="35" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.318815" y="51.761118" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.33517" y="51.754982" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="leisure" x="14.324466" y="51.757493" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.318815" y="51.761118" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="36" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.334628" y="51.758861" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.329227" y="51.765288" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.334628" y="51.758861" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="37" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.329954" y="51.750601" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.324715" y="51.753066" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.329954" y="51.750601" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="38" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.341199" y="51.758783" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.328001" y="51.762272" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.341199" y="51.758783" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="39" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.335933" y="51.764195" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.325481" y="51.759368" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.335933" y="51.764195" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="40" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.334791" y="51.756341" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.323765" y="51.758213" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.317359" y="51.75869" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.334791" y="51.756341" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="41" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.324774" y="51.764054" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.324774" y="51.764054" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="42" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.3395" y="51.756774" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.3395" y="51.756774" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="43" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.324022" y="51.759438" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.340186" y="51.758132" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="leisure" x="14.333138" y="51.752097" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.324022" y="51.759438" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="44" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.340187" y="51.759004" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.339521" y="51.754097" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="leisure" x="14.32969" y="51.753114" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.340187" y="51.759004" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="45" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.340288" y="51.761413" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.341094" y="51.752959" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.340288" y="51.761413" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="46" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.322862" y="51.762518" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.343384" y="51.75854" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.322862" y="51.762518" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="47" sex="f" age="70" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.330672" y="51.755509" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="shopping" x="14.323933" y="51.760814" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.330672" y="51.755509" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="48" sex="f" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.33739" y="51.761917" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="leisure" x="14.343319" y="51.755041" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.33739" y="51.761917" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="49" sex="f" age="70" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.330603" y="51.757505" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="shopping" x="14.333719" y="51.757775" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.330603" y="51.757505" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="50" sex="f" age="70" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.330927" y="51.764835" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.338462" y="51.750952" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.330927" y="51.764835" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="51" sex="f" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.326364" y="51.755474" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.326364" y="51.755474" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="52" sex="m" age="70" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.336753" y="51.752869" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.327296" y="51.753767" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.336753" y="51.752869" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="53" sex="m" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.33003" y="51.756333" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.33003" y="51.756333" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="54" sex="m" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.319209" y="51.75299" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="leisure" x="14.317497" y="51.756933" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.319209" y="51.75299" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="55" sex="m" age="70" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.322504" y="51.754107" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.337426" y="51.754574" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.322504" y="51.754107" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="56" sex="m" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.328155" y="51.750002" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.328155" y="51.750002" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="57" sex="f" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.325157" y="51.757376" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.325157" y="51.757376" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="58" sex="f" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.336484" y="51.757488" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="education" x="14.325164" y="51.762097" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.336484" y="51.757488" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="59" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.336905" y="51.750097" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="education" x="14.331236" y="51.76495" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.336905" y="51.750097" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="60" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.335139" y="51.762554" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.335139" y="51.762554" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="61" sex="m" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.324028" y="51.752558" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.326413" y="51.748404" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.324028" y="51.752558" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="62" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.334669" y="51.755085" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.334669" y="51.755085" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="63" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.34448" y="51.760128" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="leisure" x="14.326991" y="51.762657" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.34448" y="51.760128" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="64" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.344019" y="51.760795" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="education" x="14.328581" y="51.757981" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.344019" y="51.760795" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="65" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.344269" y="51.754971" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="education" x="14.336317" y="51.75573" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.344269" y="51.754971" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="66" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.334971" y="51.749081" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.335032" y="51.765203" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.334971" y="51.749081" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="67" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.341775" y="51.758802" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.3296" y="51.749424" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.341775" y="51.758802" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="68" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.325274" y="51.763736" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.335215" y="51.754142" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="leisure" x="14.33991" y="51.749667" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.325274" y="51.763736" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="69" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.326291" y="51.758897" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.337801" y="51.76262" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.326291" y="51.758897" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="70" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.326569" y="51.753246" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.326569" y="51.753246" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="71" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.332943" y="51.757027" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.332943" y="51.757027" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="72" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.324816" y="51.759671" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.331946" y="51.760745" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.324816" y="51.759671" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="73" sex="f" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.339312" y="51.757452" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.326696" y="51.754198" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.341551" y="51.75073" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.339312" y="51.757452" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="74" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.326793" y="51.748561" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.328842" y="51.756605" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.333252" y="51.760622" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.326793" y="51.748561" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="75" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.340837" y="51.751931" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="work" x="14.320907" y="51.754829" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.340837" y="51.751931" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="76" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.326992" y="51.763756" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.329771" y="51.754722" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.326992" y="51.763756" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="77" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.323857" y="51.75385" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.342503" y="51.751736" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="leisure" x="14.324862" y="51.761744" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.323857" y="51.75385" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="78" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.333473" y="51.751838" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.323885" y="51.758106" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.333473" y="51.751838" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="79" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.328129" y="51.758799" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="work" x="14.319414" y="51.753233" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="leisure" x="14.338159" y="51.756428" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.328129" y="51.758799" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="80" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.339078" y="51.749343" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.344252" y="51.760272" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.320183" y="51.758865" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.339078" y="51.749343" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="81" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.332113" y="51.755542" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.328251" y="51.761963" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="leisure" x="14.327488" y="51.765224" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.332113" y="51.755542" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="82" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.333735" y="51.75628" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.333735" y="51.75628" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="83" sex="f" age="70" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.341827" y="51.758755" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.339052" y="51.751547" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.341827" y="51.758755" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="84" sex="f" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.327102" y="51.759549" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="leisure" x="14.322324" y="51.753294" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.327102" y="51.759549" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="85" sex="f" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.344288" y="51.759398" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="leisure" x="14.323129" y="51.753158" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.344288" y="51.759398" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="86" sex="m" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.342041" y="51.753862" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="shopping" x="14.319471" y="51.757756" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.342041" y="51.753862" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="87" sex="m" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.332996" y="51.749603" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="shopping" x="14.333692" y="51.754445" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.332996" y="51.749603" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="88" sex="m" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.331865" y="51.75426" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.331865" y="51.75426" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="89" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.326847" y="51.754583" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="education" x="14.328626" y="51.74937" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.326847" y="51.754583" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="90" sex="f" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.332893" y="51.756467" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.332893" y="51.756467" start_time="08:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="91" sex="m" age="8" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.31779" y="51.753907" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="leisure" x="14.342442" y="51.760473" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.31779" y="51.753907" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="92" sex="m" age="8" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.335016" y="51.750684" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="education" x="14.320942" y="51.757422" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.335016" y="51.750684" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="93" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.3306" y="51.760271" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="work" x="14.342321" y="51.753554" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.3306" y="51.760271" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="94" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.323462" y="51.755071" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.327934" y="51.764989" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="leisure" x="14.324271" y="51.757944" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.323462" y="51.755071" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="95" sex="f" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.333311" y="51.754661" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="walk" />
+      <act type="work" x="14.322361" y="51.759065" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="walk" />
+      <act type="leisure" x="14.333868" y="51.762515" start_time="10:00:00" dur="02:00:00" end_time="12:00:00" />
+      <leg mode="walk" />
+      <act type="home" x="14.333311" y="51.754661" start_time="12:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="96" sex="m" age="41" employed="yes" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.325224" y="51.749135" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="bike" />
+      <act type="work" x="14.327266" y="51.757052" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="bike" />
+      <act type="home" x="14.325224" y="51.749135" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="97" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.341068" y="51.755107" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="shopping" x="14.327983" y="51.756474" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.341068" y="51.755107" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="98" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.339198" y="51.763728" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.319714" y="51.759796" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.339198" y="51.763728" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="99" sex="m" age="41" employed="yes" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.324706" y="51.75558" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="work" x="14.317013" y="51.756349" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.324706" y="51.75558" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="100" sex="f" age="70" employed="no" car_avail="never" license="no">
+    <plan selected="yes">
+      <act type="home" x="14.322283" y="51.755411" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="pt" />
+      <act type="shopping" x="14.338851" y="51.756819" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="pt" />
+      <act type="home" x="14.322283" y="51.755411" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+  <person id="101" sex="m" age="70" employed="no" car_avail="always" license="yes">
+    <plan selected="yes">
+      <act type="home" x="14.317042" y="51.755409" start_time="06:00:00" end_time="08:00:00" />
+      <leg mode="car" />
+      <act type="shopping" x="14.332154" y="51.760502" start_time="08:00:00" dur="02:00:00" end_time="10:00:00" />
+      <leg mode="car" />
+      <act type="home" x="14.317042" y="51.755409" start_time="10:00:00" dur="02:00:00" />
+    </plan>
+  </person>
+</plans>
