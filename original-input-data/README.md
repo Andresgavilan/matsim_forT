@@ -1,3 +1,5 @@
+REMEMBER TO BRANCH to test new cities networks 
+
 Suggestion to put original input data into this directory.  
 
 Suggestion to put input data for MATSim runs into the `scenario` directory.
